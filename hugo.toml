@@ -25,7 +25,7 @@ author = "Florian Mros"
 copyright = "Florian Mros"
 enableRobotsTXT = true
 pygmentsCodeFences = true
-canonifyurls = true
+canonifyurls = false
 theme = "flex-bp-hugo-cv"
 
 [pagination]
