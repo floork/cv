@@ -1,0 +1,153 @@
+PersonalData:
+  Title: Personal Data
+  Icon: fas fa-user
+  Suffix: "- CV"
+  Name: Florian Mros
+  CurrentWorkplace: TU-Dresden IT Specialist
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Florian Mros
+    - Icon: fas fa-map-marker-alt
+      Name: Location
+      Value: Dresden
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: mail@floork.dev
+    - Icon: fas fa-globe
+      Name: Website
+      Value: floork.dev
+    - Icon: far fa-calendar-alt
+      Name: Date of birth
+      Value: 20.12.2002
+
+BriefProfile:
+  Title: Brief Profile
+  Icon: fas fa-th-list
+  Sections:
+    - Name: Strengths
+      Items:
+        - Teamwork
+        - Willingness to learn
+        - Determination & Self-Motivation
+
+    - Name: Skills
+      Items:
+        - C++
+        - Python
+        - Linux
+    # - Name: Certifications
+    #   Items:
+    #     - Bodyguard
+    #     - Security Officer
+
+Experience:
+  Title: Experience
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Internship
+      Empolyer: SkySystems GmbH
+      Website: https://www.skysystems.de/index.html
+      StartDate: 09/2020
+      EndDate: 07/2021
+      Details:
+        - Part of the Advanced Technical College is a internship
+        - The internship was either from Mon-Tue or Mon-Wed
+        - IT infrastructure provider
+      Skills: ["pc repair", "pc building", "building & testing of servers", "install gps in cars"]
+    - Name: Internship
+      Empolyer: Vobis Bautzen
+      Website: https://vobis.de/
+      StartDate: 04/2019
+      EndDate: 04/2019
+      Details:
+        - 1 week
+        - Student internship
+      Skills: ["pc repair", "pc building"]
+
+# AcademicEducation:
+#   Title: Academic Education
+#   Icon: fas fa-university
+#   Sections:
+#     - Name: Dog University
+#       Organisation: Dog school A
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: Master of Arts
+
+ProfessionalTraining:
+  Title: Professional Training
+  Icon: fas fa-road
+  Sections:
+    - Name: IT Specialist for Software Development
+      Organisation: TU Dresden | ZIH
+      Website: https://tu-dresden.de/zih
+      StartDate: 08/2022
+      EndDate: Current
+      Qualification: IT Specialist for Software Development
+
+SchoolEducation:
+  Title: School Education
+  Icon: fas fa-school
+  Sections:
+    - Name: Advanced technical college
+      Organisation: Berufsschulzentrum Bautzen
+      Website: https://www.bszbautzen.de/
+      StartDate: 09/2020
+      EndDate: 04/2022
+      Qualification: Advanced technical college certificate in Engineering
+    - Name: Secondary school
+      Organisation: Oberschule Malschwitz
+      Website: https://cms.sachsen.schule/osmalsch/start.html
+      StartDate: 08/2014
+      EndDate: 07/2020
+      Qualification: Advanced technical college certificate
+
+
+FurtherEducation:
+  Title: Further Education
+  Icon: fas fa-chalkboard-teacher
+  Sections:
+#     - Name: PersonalTrainer
+#       Organisation: ACME University
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: PersonalTrainer A-License
+
+Languages:
+  Title: Sprachkenntnisse
+  Icon: fas fa-language
+  Items:
+    - German (native)
+    - English (B2)
+
+Organizations:
+  Title: Organizations
+  Icon: fas fa-users
+  Items:
+    - TU Dresden
+    - CIDS
+    - ZIH
+
+Skills:
+  Title: Skills
+  Icon: fas fa-sliders-h
+  Items:
+    - C++
+    - Python
+    - Vue/HTML/CSS
+    - Rust
+    - Linux/Bash
+    - Git
+    - Docker
+
+Interests:
+  Title: Interests
+  Icon: fas fa-chess
+  Items:
+    - Gaming
+    - Running
+    - Keyboards
+

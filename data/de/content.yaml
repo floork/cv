@@ -1,0 +1,151 @@
+PersonalData:
+  Title: Persönliche Daten
+  Icon: fas fa-user
+  Suffix: "- Lebenslauf"
+  Name: Florian Mros
+  CurrentWorkplace: TU Dresden Fachinformatiker
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Florian Mros
+    - Icon: fas fa-map-marker-alt
+      Name: Ort
+      Value: Dresden
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: mail@floork
+    - Icon: fas fa-globe
+      Name: Webseite
+      Value: floork.dev
+    - Icon: far fa-calendar-alt
+      Name: Geburtstag
+      Value: 20.12.2002
+
+BriefProfile:
+  Title: Kurzprofil
+  Icon: fas fa-th-list
+  Sections:
+    - Name: Stärken
+      Items:
+        - Teamarbeit
+        - Lernbereitschaft
+        - Zielorientiert & Zielstrebig
+
+    - Name: Fähigkeiten
+      Items:
+        - C++
+        - Python
+        - Linux
+    # - Name: Zertifizierungen
+    #   Items:
+    #     - Personenschützer
+    #     - Sicherheitsbeauftragter
+
+Experience:
+  Title: Berufserfahrung
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Praktika
+      Empolyer: SkySystems GmbH
+      Website: https://www.skysystems.de/index.html
+      StartDate: 09/2020
+      EndDate: 07/2021
+      Details:
+        - Teil der Fachoberschule ist ein Praktikum
+        - Das Praktikum war entweder von Montag bis Dienstag oder Montag bis Mittwoch
+        - IT-Systemhaus
+      Skills: ["pc reparatur", "pc bauen", "Server bauen und testen", "GPS in Autos einbauen"]
+    - Name: Praktika
+      Empolyer: Vobis Bautzen
+      Website: https://vobis.de/
+      StartDate: 04/2019
+      EndDate: 04/2019
+      Details:
+        - 1 Woche
+        - Schülerpraktikum
+      Skills: ["pc reparatur", "pc bauen"]
+
+# AcademicEducation:
+#   Title: Akademische Ausbildung
+#   Icon: fas fa-university
+#   Sections:
+#     - Name: Hunde Universität
+#       Organisation: Hundeschule A
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: Master of Arts
+
+ProfessionalTraining:
+  Title: Berufsausbildung
+  Icon: fas fa-road
+  Sections:
+    - Name: Fachinformatiker FR Anwendungsentwicklung
+      Organisation: TU Dresden | ZIH
+      Website: https://tu-dresden.de/zih
+      StartDate: 08/2022
+      EndDate: Derzeit
+      Qualification: Fachinformatiker FR Anwendungsentwicklung
+
+SchoolEducation:
+  Title: Schulische Ausbildung
+  Icon: fas fa-school
+  Sections:
+    - Name: Fachoberschule
+      Organisation: BSZ Bautzen
+      Website: https://www.bszbautzen.de/
+      StartDate: 09/2020
+      EndDate: 04/2022
+      Qualification: Fachhochschulreife
+    - Name: Realschule
+      Organisation: OS Malschwitz
+      Website: https://cms.sachsen.schule/osmalsch/start.html
+      StartDate: 08/2014
+      EndDate: 07/2020
+      Qualification: Fachoberschulreife
+
+FurtherEducation:
+  Title: Weiterbildungen
+  Icon: fas fa-chalkboard-teacher
+  Sections:
+    # - Name: PersonalTrainer
+    #   Organisation: ACME Schule
+    #   Website: https://www.example.com
+    #   StartDate: 01/2010
+    #   EndDate: 05/2014
+    #   Qualification: PersonalTrainer A-Lizenz
+
+Languages:
+  Title: Sprachkenntnisse
+  Icon: fas fa-language
+  Items:
+    - Deutsch (Muttersprache)
+    - Englisch (B2)
+
+Organizations:
+  Title: Organisationen
+  Icon: fas fa-users
+  Items:
+    - TU Dresden
+    - CIDS
+    - ZIH
+
+Skills:
+  Title: Fähigkeiten
+  Icon: fas fa-sliders-h
+  Items:
+    - C++
+    - Python
+    - Vue/HTML/CSS
+    - Rust
+    - Linux/Bash
+    - Git
+    - Docker
+
+Interests:
+  Title: Interessen
+  Icon: fas fa-chess
+  Items:
+    - Gaming
+    - Jogging
+    - Tastaturen
