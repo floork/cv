@@ -6,7 +6,7 @@ ignoreFiles = [
   "content/post/\\.*",
   "content/\\.*",
 ] # disable example pages as this is a single page
-baseURL = "/"
+baseURL = "https://cv.floork.dev/"
 title = "CV"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
